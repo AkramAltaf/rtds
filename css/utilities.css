@@ -1,0 +1,115 @@
+.container {
+    max-width: 920px;
+    margin-right: auto;
+    margin-left: auto;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.btn {
+    display: inline-block;
+    padding: 18px 30px;
+    cursor: pointer;
+    background: var(--primary-color);
+    color: #fff;
+    border: none;
+    border-radius: 2px;
+    text-transform: uppercase;
+    font-weight: 600;
+    transition: 0.3s;
+    letter-spacing: 1.2px;
+    margin-bottom: 5px;
+    margin-top: 5px;
+  }
+  
+  .btn-outline {
+    background-color: transparent;
+    border: 1px #000 solid;
+    color: #000;
+  }
+  
+  .btn:hover {
+    transform: scale(.98);
+  }
+
+.mtb-10 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.mtb-20 {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.mtb-30 {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.mtb-40 {
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+.mtb-50 {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.mtb-60 {
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
+.mtb-70 {
+    margin-top: 70px;
+    margin-bottom: 70px;
+}
+.mtb-80 {
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
+.mtb-90 {
+    margin-top: 90px;
+    margin-bottom: 90px;
+}
+.mtb-100 {
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.ptb-10 {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.ptb-20 {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.ptb-30 {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.ptb-40 {
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+.ptb-50 {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.ptb-60 {
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+.ptb-70 {
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+.ptb-80 {
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+.ptb-90 {
+    padding-top: 90px;
+    padding-bottom: 90px;
+}
+.ptb-100 {
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
